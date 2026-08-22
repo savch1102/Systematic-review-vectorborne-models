@@ -1,0 +1,102 @@
+id,name,year,doi,transmission_1,transmission_2,model_1,model_2,methodology_1,methodology_2,methodology_3,behavior_1,behavior_2,behavior_3,data
+scopus_1,a statistical examination of distinct characteristics influencing the performance of vector-borne epidemiological agent-based simulation models,2021,10.3390/modelling2020009,vector,,deterministic,stochastic,odes,,,caution,,,no
+scopus_2,modeling approach influences dynamics of a vector-borne pathogen system,2019,10.1007/s11538-019-00595-z,vector,,deterministic,stochastic,odes,ibm,,movement,,,no
+scopus_3,fractional dynamics of vector-borne infection with sexual transmission rate and vaccination,2021,10.3390/math9233118,vector,,fractional,,fdes,,,,,,no
+scopus_4,modeling the spread of zika virus in a stage-structured population: effect of sexual transmission,2018,10.1007/s11538-018-0510-7,vector,,deterministic,,odes,mcmc,,sexual_behavior,,,yes
+scopus_5,optimal control strategies of a fractional order model for zika virus infection involving various transmissions,2021,10.1016/j.chaos.2021.110864,vector,,fractional,,fdes,,,control,protection,sexual_behavior,no
+scopus_6,human behaviors: a threat to mosquito control?,2016,10.1016/j.mbs.2016.08.011,vector,,deterministic,,odes,hbm,,control,,,no
+scopus_7,atangana-baleanu fractional dynamics of dengue fever with optimal control strategies,2023,10.3934/math.2023791,vector,,fractional,,fdes,,,protection,,,no
+scopus_8,computational study of fractional-order vector-borne diseases model,2022,10.1142/s0218348x22401491,vector,,fractional,,fdes,,,,,,no
+scopus_9,modeling approach influences dynamics of a vector-borne pathogen system,2019,10.1007/s11538-019-00595-z,vector,,deterministic,stochastic,odes,ibm,,movement,,,no
+scopus_10,human behaviors: a threat to mosquito control?,2016,10.1016/j.mbs.2016.08.011,vector,,deterministic,,odes,hbm,,control,,,no
+scopus_11,a statistical examination of distinct characteristics influencing the performance of vector-borne epidemiological agent-based simulation models,2021,10.3390/modelling2020009,vector,,deterministic,stochastic,odes,,,caution,,,no
+scopus_12,modeling and stability analysis of the transmission dynamics of monkeypox with control intervention,2024,10.1016/j.padiff.2024.100730,human,zoonotic,deterministic,,odes,pdes,,protection,,,no
+scopus_13,the relation between host competence and vector-feeding preference in a multi-host model: chagas and cutaneous leishmaniasis,2020,10.3934/mbe.2020299,vector,zoonotic,deterministic,,odes,,,,,,no
+scopus_14,modeling the spread of the zika virus by sexual and mosquito transmission,2022,10.1371/journal.pone.0270127,vector,human,deterministic,,odes,,,sexual_behavior,,,yes
+scopus_15,impact of human behavior on itns control strategies to prevent the spread of vector-borne diseases,2018,10.1478/aapp.96s3a2,vector,,deterministic,,odes,,,protection,vaccination,,no
+scopus_16,"dynamic insights into malaria–onchocerciasis co-disease transmission: mathematical modeling, basic reproduction number and sensitivity analysis",2024,10.1007/s40590-024-00601-y,vector,,deterministic,,odes,,,control,,,no
+scopus_17,"a population dynamics model of mosquito-borne disease transmission, focusing on mosquitoes’ biased distribution and mosquito repellent use",2019,10.1007/s11538-019-00666-1,vector,,deterministic,,odes,,,protection,,,no
+scopus_18,a behavioural vaccination model with application to meningitis spread in nigeria,2024,10.1016/j.apm.2023.09.031,human,,deterministic,,odes,,,vaccination,,,yes
+scopus_19,effects of information- induced behavioural changes during the covid-19 lockdowns: the case of italy,2020,10.1098/rsos.201635,human,,deterministic,,odes,,,information,,,yes
+scopus_20,kinetic models for epidemic dynamics in the presence of opinion polarization,2023,10.1007/s11538-023-01147-2,human,,kinetic,,pdes,odes,,beliefs,,,no
+scopus_21,stochastic resonance effect observed in a vaccination game with effectiveness framework obeying the sir process on a scale-free network,2023,10.1016/j.chaos.2022.113029,human,,stochastic,,network,,,vaccination,,,no
+scopus_22,how disease risk awareness modulates transmission: coupling infectious disease models with behavioural dynamics,2022,10.1098/rsos.210803,human,,mechanistic,stochastic,odes,network,,information,,,no
+scopus_23,a behavioural modelling approach to assess the impact of covid-19 vaccine hesitancy,2022,10.1016/j.jtbi.2021.110973,human,,deterministic,,odes,,,vaccination,information,,yes
+sd_1,correlations between stochastic endemic infection in multiple interacting subpopulations,2019,10.1016/j.jtbi.2019.109991,human,,stochastic,,network,odes,mc,movement,,,no
+sd_2,accounting for super-spreader events and algebraic decay in sir models,2022,10.1016/j.cma.2022.115286,human,,deterministic,,odes,,,information,,,no
+sd_3,social dilemma analysis on vaccination game accounting for the effect of immunity waning,2023,10.1016/j.chaos.2023.113426,human,,deterministic,,odes,,,vaccination,information,,no
+sd_4,"modeling the soft drug epidemic: extinction, persistence and sensitivity analysis",2023,10.1016/j.rico.2022.100193,human,,deterministic,,odes,,,information,,,no
+sd_5,how and to what extent does the anti-social behavior of violating self-quarantine measures increase the spread of disease?,2022,10.1016/j.chaos.2022.112178,human,,deterministic,mas,odes,network,,movement,information,,no
+sd_6,the basic reproductive number for disease systems with multiple coupled heterogeneities,2021,10.1016/j.mbs.2019.108294,human,,stochastic,,odes,,,,,,no
+sd_7,monotonically decreasing behavior of measles epidemic well captured by atangana–baleanu–caputo fractional operator under real measles data of pakistan,2019,10.1016/j.chaos.2019.109478,human,,fractional,,fdes,,,information,,,yes
+wofs_1,a hybrid model for the effects of treatment and demography on malaria superinfection,2020,10.1016/j.jtbi.2020.110194,vector,,deterministic,stochastic,odes,,,,,,no
+wofs_2,the effect of sexual transmission on zika virus dynamics,2018,10.1007/s00285-018-1230-1,vector,human,deterministic,,odes,pdes,,sexual_behavior,,,no
+wofs_3,vector-borne disease risk indexes in spatially structured populations,2018,10.1371/journal.pntd.0006234,vector,,deterministic,stochastic,odes,network,,movement,,,no
+wofs_4,modeling the spread of zika virus in a stage-structured population: effect of sexual transmission,2018,10.1007/s11538-018-0510-7,vector,,deterministic,,odes,mcmc,,sexual_behavior,,,yes
+wofs_5,a game-theoretic model of voluntary yellow fever vaccination to prevent urban outbreaks,2022,10.3390/g13040055,vector,,deterministic,,odes,,,vaccination,,,no
+wofs_6,optimal repellent usage to combat dengue fever,2016,10.1007/s11538-016-0167-z,vector,,deterministic,,pdes,,,protection,,,no
+wofs_7,optimal voluntary and mandatory insect repellent usage and emigration strategies to control the chikungunya outbreak on reunion island,2020,10.7717/peerj.10151,vector,,deterministic,,odes,,,protection,movement,,yes
+wofs_8,game-theoretical model of the voluntary use of insect repellents to prevent zika fever,2022,10.1007/s13235-021-00418-8,vector,,deterministic,,odes,,,protection,,,yes
+wofs_9,the effectiveness of human interventions against covid-19 based on evolutionary game theory*,2022,10.11948/20210269,human,,deterministic,,odes,,,information,policies,,yes
+wofs_10,kinetic models for epidemic dynamics in the presence of opinion polarization,2023,10.1007/s11538-023-01147-2,human,,kinetic,,pdes,odes,,beliefs,,,no
+wofs_11,evolutionary dynamics in an si epidemic model with phenotype-structured susceptible compartment,2021,10.1007/s00285-021-01703-1,human,,deterministic,,pide,odes,,,,,no
+wofs_12,collateral effects of insecticide-treated nets on human and environmental safety in an epidemiological model for malaria with human risk perception,2022,10.3390/ijerph192316327,vector,,deterministic,,odes,,,protection,,,no
+wofs_13,comparing metapopulation dynamics of infectious diseases under different models of human movement,2021,10.1073/pnas.2007488118,human,,deterministic,,odes,,,movement,,,yes
+wofs_14,mathematical epidemiological analysis of dynamics of delay attacks on pull-based competitive information diffusion,2020,10.1016/j.comnet.2020.107383,human,,deterministic,,odes,network,,information,,,no
+wofs_15,stochasticity of disease spreading derived from the microscopic simulation approach for various physical contact networks,2022,10.1016/j.amc.2022.127328,human,,stochastic,mas,network,odes,,movement,,,no
+scholar_1,optimal bed net use for a dengue disease model with mosquito seasonal pattern,2017,10.1002/mma.4629,vector,,deterministic,,odes,pdes,,protection,,,yes
+scholar_2,transmission and control of plasmodium knowlesi: a mathematical modelling study,2014,10.1371/journal.pntd.0002978,vector,,deterministic,,odes,,,protection,movement,,yes
+scholar_3,"pathogenic landscapes: interactions between land, people, disease vectors, and their animal hosts",2010,10.1186/1476-072x-9-54,vector,,,,,,,,,,no
+scholar_4,human exposure to early morning anopheles funestus biting behavior and personal protection provided by long-lasting insecticidal nets,2014,10.1371/journal.pone.0104967,vector,,,,,,,,,,no
+scholar_5,"a stage-structured stochastic model of the population dynamics of triatoma infestans, the main vector of chagas disease",2003,10.1016/s0304-3800(02)00388-5,vector,,stochastic,,mc,,,irritability,,,no
+scholar_6,"perspectives on the role of mobility, behavior, and time scales in the spread of diseases",2016,10.1073/pnas.1604994113,vector,,lagrangian,deterministic,odes,,,movement,information,,no
+scholar_7,contrasting the value of targeted versus area- wide mosquito control scenarios to limit arbovirus transmission with human mobility patterns based on different tropical urban population centers,2019,10.1371/journal.pntd.0007479,vector,,stochastic,,network,,,movement,information,,yes
+scholar_8,assessing the impact of control interventions and awareness on malaria: a mathematical modeling approach,2021,10.28919/cmbn/6632,vector,,deterministic,,odes,,,protection,information,,no
+scholar_9,behavioral responses to epidemics in an online experiment: using virtual diseases to study human behavior,2013,10.1371/journal.pone.0052814,human,,,,,,,,,,no
+scholar_10,human behaviors: a threat to mosquito control?,2016,10.1016/j.mbs.2016.08.011,vector,,deterministic,,odes,hbm,,control,,,no
+scholar_11,"a game-theoretic modeling approach to comprehend the advantage of dynamic health interventions in limiting
+the transmission of multi-strain epidemics",2022,10.4236/jamp.2022.1012248,human,,deterministic,,odes,,,vaccination,protection,,no
+scholar_12,modeling the dynamic transmission of dengue fever: investigating disease persistence,2011,10.1371/journal.pntd.0000942,vector,,stochastic,,network,,,movement,,,yes
+scholar_13,understanding dengue control for short- and long-term intervention with a mathematical model approach,2018,10.1155/2018/9674138,vector,,deterministic,,odes,,,vaccination,protection,,no
+scholar_14,why should we apply abm for decision analysis for infectious diseases?—an example for dengue interventions,2019,10.1371/journal.pone.0221564,vector,,abm,,,,,,,,yes
+scholar_15,"stability analysis and optimal control of
+a vector-borne disease with nonlinear incidence",2012,10.1155/2012/595487,vector,,deterministic,,odes,fdes,,control,,,no
+scholar_16,man bites mosquito: understanding the contribution of human movement to vector-borne disease dynamics,2009,doi:10.1371/journal.pone.0006763,vector,,stochastic,,network,,,movement,,,no
+scholar_17,a human behavior integrated hierarchical model of airborne disease transmission in a large city,2018,10.1016/j.buildenv.2017.11.011,human,,hihi,deterministic,odes,,,policies,protection,information,no
+scholar_18,spatially explicit multi-criteria decision analysis for managing vector-borne diseases,2011,10.1186/1476-072x-10-70,vector,,,,,,,,,,no
+scholar_19,personal protective strategies for dengue disease: simulations in two coexisting virus serotypes scenarios,2021,10.1016/j.matcom.2021.04.002,vector,,deterministic,,odes,,,protection,information,,no
+scholar_20,potential causes and consequences of behavioural resilience and resistance in malaria vector populations: a mathematical modelling analysis,2014,10.1186/1475-2875-13-97,vector,,deterministic,,odes,,,protection,,,no
+scholar_21,a mathematical model of dengue transmission with memory,2014,10.1016/j.cnsns.2014.08.009,vector,,deterministic,fractional,odes,fdes,,memory,,,no
+scholar_22,a mathematical model for the control of carrier-dependent infectious diseases with direct transmission and time delay,2013,10.1016/j.chaos.2013.08.002,vector,,deterministic,,odes,,,protection,,,no
+scholar_23,evaluating epidemic intervention policies with systems thinking: a case study of dengue fever in mexico,1999,10.1002/(sici)1099-1727(199922)15:2<119::aid-sdr163>3.0.co;2-g,vector,,,,,,,,,,yes
+scholar_24,"emergence of viral diseases: mathematical modeling as a tool for infection control, policy and decision making",2010,10.3109/10408411003604619,human,,,,,,,,,,no
+scholar_25,mathematical analysis of a hybrid model: impacts of individual behaviors on the spreading of an epidemic,2022,10.3934/nhm.2022010,human,,deterministic,abm,odes,network,,protection,movement,information,no
+scholar_26,"complex network model for covid-19: human behavior, pseudo-periodic solutions and multiple epidemic waves",2021,10.1016/j.jmaa.2021.125171,human,,deterministic,,odes,network,,information,policies,,yes
+scholar_27,a generic model for a single strain mosquito-transmitted disease with memory on the host and the vector,2015,10.1016/j.mbs.2015.01.009,vector,,deterministic,,odes,,,memory,,,yes
+scholar_28,mathematical modeling of malaria transmission dynamics in humans with mobility and control states,2023,10.1016/j.idm.2023.08.005,vector,,deterministic,,odes,,,movement,control,,yes
+scholar_29,decisions under uncertainty: a computational framework for quantification of policies addressing infectious disease epidemics,2007,10.1007/s00477-007-0137-y,human,,stochastic,,network,,,movement,,,yes
+scholar_30,effect of negligence and length of time delay in spontaneous behavioural changes for the response to epidemics,2017,10.1002/mma.4926,human,,deterministic,,odes,,,memory,beliefs,,no
+scholar_31,the influence of gender and temephos exposure on community participation in dengue prevention: a compartmental mathematical model,2024,10.1186/s12879‐024‐09341‐w,vector,,deterministic,,odes,,,control,,,yes
+scholar_32,optimization methods for decision making in disease prevention and epidemic control,2013,10.1016/j.mbs.2013.09.007,human,,dpec,stochastic,functions,,,vaccination,policies,,no
+scholar_33,"
+exploring epidemic voluntary vaccinating behavior based on information-driven decisions and benefit-cost analysis",2023,10.1016/j.amc.2023.127905,human,,deterministic,,odes,functions,,vaccination,information,,no
+scholar_34,a network-patch methodology for adapting agent- based models for directly transmitted disease to mosquito-borne disease,2015,10.1080/17513758.2015.1005698,vector,,abm,deterministic,network,odes,,movement,,,no
+scholar_35,"
+game-theoretic frameworks for epidemic spreading and human decision-making: a review",2022,10.1007/s13235-022-00428-0,human,,,,,,,,,,no
+scholar_36,strategic decision making about travel during disease outbreaks: a game theoretical approach,2018,10.1098/rsif.2018.0515,human,,deterministic,,odes,functions,,movement,,,yes
+scholar_37,modeling individual fear factor with optimal control in a disease-dynamic system,2017,10.1016/j.chaos.2017.09.001,human,,deterministic,,odes,network,,information,fear,,no
+scholar_38,mathematical models of ebola virus disease with socio-economic dynamics,2019,,human,,,,,,,,,,no
+scholar_39,"leveraging an epidemic–economic
+mathematical model to assess
+human responses to covid‐19
+policies and disease progression",2023,10.1038/s41598-023-39723-0,human,,deterministic,,odes,pdes,mc,protection,vaccination,control,no
+scholar_40,merging economics and epidemiology to improve the prediction and management of infectious disease,2014,10.1007/s10393-014-0963-6,human,,deterministic,,odes,,,information,,,no
+scholar_41,"the game-theoretical model of using insecticide-treated bed-nets to
+fight malaria",2016,10.4236/am.2016.79076,vector,,deterministic,,odes,,,protection,,,no
+scholar_42,disease-driven reduction in human mobility influences human-mosquito contacts and dengue transmission dynamics,2021,10.1371/journal.pcbi.1008627,vector,,stochastic,,network,,,movement,,,no
+scholar_43,the value of information in decision-analytic modeling for malaria vector control in east africa,2017,10.1111/risa.12606,vector,,,,,,,,,,no
+scholar_44,"global dynamics and optimal control of multi-age structured vector disease model with vaccination, relapse and general incidence",2023,10.1007/s12346-022-00724-5,vector,,deterministic,,odes,pdes,,vaccination,,,no
+scholar_45,"a population dynamics model of mosquito-borne disease transmission, focusing on mosquitoes’ biased distribution and mosquito repellent use",2019,10.1007/s11538-019-00666-1,vector,,deterministic,,odes,,,protection,,,no
+scholar_46,threshold dynamics of a time-delayed epidemic model for continuous imperfect-vaccine with a generalized nonmonotone incidence rate,2020,10.1007/s11071-020-05825-x,human,,deterministic,,odes,,,vaccination,,,yes
+scholar_47,erlang-distributed seir epidemic models with cross-diffusion,2023,10.3390/math11092167,human,,deterministic,stochastic,pdes,odes,,movement,,,no
+scholar_48,on a new simvw epidemic model with vaccination and endemic testing,2019,10.1088/1742-6596/1419/1/012029,vector,,deterministic,,odes,,,vaccination,,,no
