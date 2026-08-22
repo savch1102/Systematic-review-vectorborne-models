@@ -3,7 +3,9 @@
 ## Mathematical Models of Vector Borne Diseases Incorporating Human Behavior
 
 **Version:** 1.0
+
 **Date:** January 13, 2025
+
 **Registration status:** Not registered in PROSPERO, since PROSPERO's eligibility criteria require a health related outcome and this review does not report a pooled health outcome. This protocol is published on GitHub before completion of data extraction and synthesis, to provide a timestamped, public record of the planned methods.
 
 ## 1. Review Team
