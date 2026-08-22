@@ -10,7 +10,7 @@
 
 * Santigo Villamil-Chacón, BIOMAC research group, Universidad de los Andes. Lead reviewer, protocol development, data extraction, analysis, manuscript drafting.
 * Juanita Prada-Mora, reviewer 2. Independent screening, data extraction, conflict resolution.
-* Dr. Mauricio Santos Vega, BIOMAC, Universidad de los Andes. Supervision, protocol review.
+* Dr. Mauricio Santos-Vega, BIOMAC, Universidad de los Andes. Supervision, protocol review.
 
 ## 2. Objective
 
