@@ -163,7 +163,7 @@ Data will be synthesized narratively, given the heterogeneity of modeling approa
 | Reports sought for retrieval | 113 |
 | Reports not retrieved | 0 |
 | Reports assessed for eligibility | 113 |
-| Reports excluded, no explicit model or non vectorial transmission | 39 |
+| Reports excluded, no explicit model or non vectorial transmission | 51 |
 | Studies included in review | 62 |
 
 ## 11. Amendments
