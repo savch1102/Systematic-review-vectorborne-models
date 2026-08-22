@@ -2,7 +2,7 @@
 
 A repository for the protocol, search strategy, deduplication scripts, and data extraction registry from the systematic review “Human Behavior and Disease Transmission: A Systematic Review of Behavioral Decision Dynamics in Vector-Borne Diseases”, which identifies, classifies, and critically analyzes how human behavior has been formalized and incorporated into mathematical models of vector-borne disease transmission. The review develops a conceptual framework that organizes existing modeling literature according to both the mathematical approach used and the type of human behavior represented.
 
-> Authors: **Santiago Villamil-Chacón**, **Juanita Prada-Mora** & **Mauricio Santos-Vega**.
+> Authors: **Santiago Villamil-Chacón**, **Juanita Prada-Mora**, **Alex Perkins**, & **Mauricio Santos-Vega**.
 
 This work covers:
 + A PRISMA 2020-compliant search and screening process across four databases (Web of Science, Scopus, Google Scholar, Science Direct).
