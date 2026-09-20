@@ -41,6 +41,8 @@ review_clean = replace_missing_values(
   na_strings = "-"
 )
 
+review_clean = review_clean %>% 
+  mutate(across(6:ncol(review_clean), str_to_sentence))
 
 ## Tables ----
 
@@ -48,7 +50,6 @@ table(review_clean$stochasticity)
 table(review_clean$model_1)
 table(review_clean$behavior_1)
 table(review_clean$disease)
-
 
 ## Initial cleaning ----
 
