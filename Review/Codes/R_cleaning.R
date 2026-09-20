@@ -31,12 +31,13 @@ review = standardize_column_names(review) %>%
 review_clean = review %>% 
   distinct(doi, .keep_all = TRUE)
 
-no = which(review_clean$behavior_1 %in% c("creo que no tiene", "sexual_behavior"))
+no = which(review_clean$behavior_1 %in% c("creo que no tiene", "sexual_behavior") |
+           review_clean$disease == "monkeypox")
 
 review_clean = review_clean[-no,]
 review_clean = replace_missing_values(
   review_clean, 
-  target_columns = colnames(data1)[4:ncol(data1)], 
+  target_columns = colnames(review_clean)[4:ncol(review_clean)], 
   na_strings = "-"
 )
 
